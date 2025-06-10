@@ -1,10 +1,10 @@
-# Yet Another Webshare Plugin - fork
+# WS Plugin - fork
 
 Kodi plugin pro přehrávání obsahu ze služby Webshare.cz
 
 ## Funkcie
 
-- Vyhledávání obsahu na Webshare
+- Vyhledávání obsahu
 - Přehrávání videí
 - Fronty a historie
 - Stahování souborů
@@ -65,7 +65,7 @@ Nová funkce pro správu seriálů umožňuje:
 
 V této aktualizaci doplňku YaWSP (v0.3.0) byl přidán správce seriálů, který umožňuje:
 
-- Vyhledávat seriály na Webshare (např. "Red Dwarf")
+- Vyhledávat seriály (např. "Red Dwarf")
 - Automaticky organizovat nalezené soubory do sezón a epizod
 - Ukládat historii vyhledávání pro rychlý přístup
 - Přehledně procházet epizody v jednotlivých sezónách
@@ -82,7 +82,7 @@ Vyhledané seriály zůstanou uloženy v historii, takže k nim budete mít kdyk
 
 #### Poznámka:
 
-Pro správné fungování je potřeba mít platný účet Webshare a být přihlášen v nastavení doplňku.
+Pro správné fungování je potřeba mít platný účet a být přihlášen v nastavení doplňku.
 
 ## Varování
 
